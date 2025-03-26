@@ -44,7 +44,7 @@ This project was developed to **enhance the efficiency of flight bookings and ma
 
 ## Contact
 
-For any inquiries or feedback, feel free to contact me at **skshitij225@gmail.com**.
+For any inquiries or feedback, feel free to contact me at **armankhan2k01@gmail.com**.
 
 🚀 **Flight Management System - Simplifying Air Travel!**
 
