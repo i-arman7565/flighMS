@@ -29,7 +29,7 @@ This project was developed to **enhance the efficiency of flight bookings and ma
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/kshitij583415/FlightManagementSystem.git
+   https://github.com/i-arman7565/flighMS.git
    ```
 2. Compile the program.
   
